@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Rhein\\Desktop\\PhonePluginsApplication-master\\ApiUserLoaderPlugin\\",
+  "WorkspaceRootPath": "C:\\Users\\Rhein\\Documents\\GitHub\\TestTaskPhoneApp\\ApiUserLoaderPlugin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rhein\\Desktop\\PhonePluginsApplication-master\\ApiUserLoaderPlugin\\Plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rhein\\Documents\\GitHub\\TestTaskPhoneApp\\ApiUserLoaderPlugin\\Plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rhein\\Desktop\\PhonePluginsApplication-master\\ApiUserLoaderPlugin\\ApiUserLoaderPlugin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rhein\\Documents\\GitHub\\TestTaskPhoneApp\\ApiUserLoaderPlugin\\ApiUserLoaderPlugin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiUserLoaderPlugin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Plugin.cs",
-              "DocumentMoniker": "C:\\Users\\Rhein\\Desktop\\PhonePluginsApplication-master\\ApiUserLoaderPlugin\\Plugin.cs",
+              "DocumentMoniker": "C:\\Users\\Rhein\\Documents\\GitHub\\TestTaskPhoneApp\\ApiUserLoaderPlugin\\Plugin.cs",
               "RelativeDocumentMoniker": "Plugin.cs",
-              "ToolTip": "C:\\Users\\Rhein\\Desktop\\PhonePluginsApplication-master\\ApiUserLoaderPlugin\\Plugin.cs",
+              "ToolTip": "C:\\Users\\Rhein\\Documents\\GitHub\\TestTaskPhoneApp\\ApiUserLoaderPlugin\\Plugin.cs",
               "RelativeToolTip": "Plugin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwDgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T20:36:04.846Z",
               "EditorCaption": ""
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ApiUserLoaderPlugin.csproj",
-              "DocumentMoniker": "C:\\Users\\Rhein\\Desktop\\PhonePluginsApplication-master\\ApiUserLoaderPlugin\\ApiUserLoaderPlugin.csproj",
+              "DocumentMoniker": "C:\\Users\\Rhein\\Documents\\GitHub\\TestTaskPhoneApp\\ApiUserLoaderPlugin\\ApiUserLoaderPlugin.csproj",
               "RelativeDocumentMoniker": "ApiUserLoaderPlugin.csproj",
-              "ToolTip": "C:\\Users\\Rhein\\Desktop\\PhonePluginsApplication-master\\ApiUserLoaderPlugin\\ApiUserLoaderPlugin.csproj",
+              "ToolTip": "C:\\Users\\Rhein\\Documents\\GitHub\\TestTaskPhoneApp\\ApiUserLoaderPlugin\\ApiUserLoaderPlugin.csproj",
               "RelativeToolTip": "ApiUserLoaderPlugin.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-23T20:35:59.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T20:35:59.833Z"
             }
           ]
         }
