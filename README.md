@@ -26,11 +26,18 @@
 
 ---
 
-Приложение 1
-57 - if(indexToDelete > 0 && indexToDelete < employeesList.Count()) Необходимо заменить на if(indexToDelete < employeesList.Count())
-
-Приложение 2
+Приложение 1:
+57 -
+```cs
+if(indexToDelete > 0 && indexToDelete < employeesList.Count()) 
 ```
+Необходимо заменить на
+```cs
+ if(indexToDelete < employeesList.Count())
+```
+
+Приложение 2:
+```cs
             if (phone == "" || name == "")
             {
                 logger.Error("Error! Empty fields!");
@@ -41,8 +48,8 @@
             }
 ```
 
-Приложение 3
-```
+Приложение 3:
+```cs
                 var newEmployee = new EmployeesDTO
                 {
                     Name = name
@@ -52,14 +59,14 @@
                 Console.WriteLine($"{name} added to employees");
 ```
 
-Приложение 4
+Приложение 4:
 Добавил сеттер в EmployeesDTO
-```
+```cs
             set { _phoneFromJson = value; }
 ```
 
 Добавил реализацию заполнения в LoaderPlugin
-```
+```cs
             foreach (var emp in employeesList)
             {
                 if (!string.IsNullOrWhiteSpace(emp.Phone) && emp.Phone != "-")
